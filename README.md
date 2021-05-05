@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi 👋 , my name is **Misha Kvochko**!
 
-<!--
-**pumb3r/pumb3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm beginner *Front-end developer* from Cherkasy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning of Bohdan Khelnytky National University at Cherkassy
+👯 I’m looking to  work front-end developer
+
+
+### Languages and Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for=the-badge&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for=the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for=the-badge&logo=css3)
+
+### 📫 Mail me: spemisp40@gmail.com
+### 💬 Telegram , Instagram : mishakvochko
+
+
+
