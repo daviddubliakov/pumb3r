@@ -3,7 +3,7 @@
 
 ## I'm beginner *Front-end developer* from Cherkasy
 
-🌱 I’m currently learning of Bohdan Khelnytky National University at Cherkassy
+🌱 I’m currently learning of Bohdan Khelnytky National University at Cherkassy <br/>
 👯 I’m looking to  work front-end developer
 
 
