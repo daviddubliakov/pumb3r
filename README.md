@@ -11,8 +11,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for=the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for=the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for=the-badge&logo=css3)
-![React](https://user-images.githubusercontent.com/58284931/178037426-8a2f23f9-fafc-4dc3-ba10-af24652b9f07.png)
-![TypeScript]![image](https://user-images.githubusercontent.com/58284931/178037618-492010c6-a5a0-43af-af62-f0f97cc6d83b.png)
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 
 
 ### 📫 Mail me: spemisp40@gmail.com
