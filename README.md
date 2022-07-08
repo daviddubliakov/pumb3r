@@ -12,8 +12,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for=the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for=the-badge&logo=css3)
 ![React](https://user-images.githubusercontent.com/58284931/178037426-8a2f23f9-fafc-4dc3-ba10-af24652b9f07.png)
-![TypeScript](https://user-images.githubusercontent.com/58284931/178037508-485a2683-6b87-42e1-b91a-ed8a09c8d64f.png)
-
+![TypeScript]![image](https://user-images.githubusercontent.com/58284931/178037618-492010c6-a5a0-43af-af62-f0f97cc6d83b.png)
 
 
 ### 📫 Mail me: spemisp40@gmail.com
